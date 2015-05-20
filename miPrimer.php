@@ -11,7 +11,7 @@
 						$n=1;
 						for ($n1=1;$n1<=TAM;$n1++){
 							if($n1%2 ==0)
-								echo"<tr bgcolor=#bdc3d6>";
+								echo"<tr bgcolor=#00FA9A>";
 							else
 								echo "<tr>";
 							for($n2=1;$n2<=TAM;$n2++){
